@@ -19,7 +19,7 @@ on["8606-12701"] = \
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["7968-12703"] = ""
+pars1["7968-12703"] = "speczoom=104,3"
 pars1["8606-12701"] = ""
 
 
