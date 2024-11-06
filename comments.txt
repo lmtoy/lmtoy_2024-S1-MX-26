@@ -3,3 +3,5 @@
 #123456__1       extra bad beam     # pix_list=-4,-13,14,15
 #123456__0       standard           # pix_list=-13
 #
+119404_119418 	 nice detection ~108.4 GHz
+119188_119441    nice detection ~104.5 GHz
