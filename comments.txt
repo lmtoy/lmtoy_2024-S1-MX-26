@@ -2,6 +2,39 @@
 #123456    QAFAIL
 #123456__1       extra bad beam     # pix_list=-4,-13,14,15
 #123456__0       standard           # pix_list=-13
-#
+
+
+#individual
+119406		removed bad cb 2/3	#badcb=2/3
+119409		removed bad cb 0/5	#badcb=0/5
+119413          removed bad cb 2/3      #badcb=2/3
+119414          removed bad cb 2/3      #badcb=2/3
+119416          removed bad cb 2/3      #badcb=2/3
+122170          removed bad cb 0/5      #badcb=0/5
+123932          removed bad cb 3/0      #badcb=3/0
+123950          removed bad cb 3/0      #badcb=3/0
+123940          removed bad cb 1/2      #badcb=1/2
+124189          removed bad cb 0/5      #badcb=0/5
+124190          removed bad cb 1/2      #badcb=1/2
+124191          removed bad cb 3/0      #badcb=3/0
+124194          removed bad cb 3/0      #badcb=3/0
+124202          removed bad cb 2/4      #badcb=2/4
+124202          removed bad cb 1/2      #badcb=1/2
+124203          removed bad cb 1/2      #badcb=1/2
+124544          removed bad cb 1/2      #badcb=1/2
+124547          removed bad cb 1/2 and 3/0      #badcb=1/2,3/0
+124548          removed bad cb 3/0      #badcb=3/0
+124552          removed bad cb 3/0      #badcb=3/0
+124555          removed bad cb 3/0      #badcb=3/0
+124557          removed bad cb 3/0      #badcb=3/0
+124551          removed bad cb 1/2 and 3/0      #badcb=1/2,3/0
+
+
+
+#combos
 119404_119418 	 nice detection ~108.4 GHz
-119188_119441    nice detection ~104.5 GHz
+119188_123896    nice detection ~104.5 GHz
+121778_121788 	 no obvious detection
+121791_121793	 nice detection ~110.2GHz
+123927_123951	 nice detection ~110.9GHz
+
