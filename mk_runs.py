@@ -39,12 +39,12 @@ on["8938-12702"] = \
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["7968-12703"] = "speczoom=104,3 qagrade=3"
-pars1["8132-6101"]  = "speczoom=104,3 qagrade=3"
-pars1["8243-12701"] = "speczoom=108,3 qagrade=3"
-pars1["8606-12701"] = "speczoom=108,3 qagrade=3"
-pars1["8725-9102" ] = "speczoom=108,3 qagrade=3"
-pars1["8938-12702"] = "speczoom=108,3 qagrade=3"
+pars1["7968-12703"] = "speczoom=104,3 xlines=104.5,0.5 qagrade=3"
+pars1["8132-6101"]  = "speczoom=104,3                  qagrade=3"      # no line
+pars1["8243-12701"] = "speczoom=108,3 xlines=110.4,0.5 qagrade=3"
+pars1["8606-12701"] = "speczoom=108,3 xlines=108.4,0.5 qagrade=3"
+pars1["8725-9102" ] = "speczoom=108,3 xlines=109.9,0.4 qagrade=3"    
+pars1["8938-12702"] = "speczoom=108,3 xlines=110.8,0.4 qagrade=3"
 
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
