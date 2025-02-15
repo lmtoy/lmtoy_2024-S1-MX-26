@@ -36,6 +36,9 @@ on["8938-12702"] = \
  [ 123927, 123928, 123929, 123931, 123932, 123933, 123935, 123936, 123937, 123939, 123940, 123941, 123945, 123946, 123947, 123949, 123950, 123951,
    124189, 124190, 124191, 124193, 124194, 124195,]
 
+on["9500-1901"] = \
+ [ 124916, 124917, 124918, 127182, 127183, 127184,]
+
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
@@ -45,7 +48,7 @@ pars1["8243-12701"] = "speczoom=108,3 xlines=110.4,0.5 qagrade=3"
 pars1["8606-12701"] = "speczoom=108,3 xlines=108.4,0.5 qagrade=3"
 pars1["8725-9102" ] = "speczoom=108,3 xlines=109.9,0.4 qagrade=3"    
 pars1["8938-12702"] = "speczoom=108,3 xlines=110.8,0.4 qagrade=3"
-
+pars1["9500-1901"]  = "speczoom=106,3 xlines=105.8,0.4"
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
 pars2 = {}
@@ -54,6 +57,7 @@ pars2["8132-6101"]  = ""
 pars2["8243-12701"] = ""
 pars2["8606-12701"] = ""
 pars2["8938-12702"] = ""
+pars2["9500-1901"]  = ""
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
