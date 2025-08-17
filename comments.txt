@@ -3,34 +3,6 @@
 #123456__1       extra bad beam     # pix_list=-4,-13,14,15
 #123456__0       standard           # pix_list=-13
 
-
-#individual
-119406		removed bad cb 2/3	#badcb=2/3
-119409		removed bad cb 0/5	#badcb=0/5
-119413          removed bad cb 1/1 and 2/3     #badcb=1/1,2/3
-119414          removed bad cb 2/3      #badcb=2/3
-119416          removed bad cb 2/3      #badcb=2/3
-119417          removed bad cb 2/3      #badcb=2/3
-122170          removed bad cb 0/5 and 3/3     #badcb=0/5,3/3
-123932          removed bad cb 3/0      #badcb=3/0
-123950          removed bad cb 3/0      #badcb=3/0
-123940          removed bad cb 1/2      #badcb=1/2
-124189          removed bad cb 0/5      #badcb=0/5
-124190          removed bad cb 1/2      #badcb=1/2
-124191          removed bad cb 3/0      #badcb=3/0
-124194          removed bad cb 3/0      #badcb=3/0
-124202          removed bad cb 2/4      #badcb=2/4
-124202          removed bad cb 1/2      #badcb=1/2
-124203          removed bad cb 1/2      #badcb=1/2
-124544          removed bad cb 1/2      #badcb=1/2
-124547          removed bad cb 1/2 and 3/0      #badcb=1/2,3/0
-124548          removed bad cb 3/0      #badcb=3/0
-124552          removed bad cb 3/0      #badcb=3/0
-124555          removed bad cb 3/0      #badcb=3/0
-124557          removed bad cb 3/0      #badcb=3/0
-124551          removed bad cb 1/2 and 3/0      #badcb=1/2,3/0
-
-
 #9024-12705
 136372		removed bad cb 3/0	#badcb=3/0
 136375		[REOBSERVE] bad board 0	#qagrade=-2
@@ -86,7 +58,19 @@
 119439		removed bad cb 3/0	#badcb=3/0
 119440		removed bad cb 3/0	#badcb=3/0
 
-
+#8482-12703
+129302_131804	#speczoom=109.5,3, xlines=109.9,0.5, qagrade=0
+129304		removed bad cb 2/3,3/0	#badcb=2/3,3/0
+130585		removed bad cb 2/3	#badcb=2/3
+130586		removed bad cb 2/3,2/4,3/0,3/4	#badcb=2/3,2/4,3/0,3/4
+130588		removed bad cb 2/3,3/0	#badcb=2/3,3/0
+130589		removed bad cb 2/3,3/0	#badcb=2/3,3/0
+131798		one band in board 1	#qagrade=-2
+131799		remove bad cb 2/3,3/0	#badcb=2/3,3/0
+131800		remove bad cb 2/3	#badcb=2/3
+131802		remove bad cb 2/3,3/5	#badcb=2/3,3/5
+131803		remove bad cb 2/1,3/0,3/5	#badcb=2/1,3/0,3/5
+131804		remove bad cb 2/1,3/5	#badcb=2/3,3/5
 
 #combos
 #119404_119418 	 nice detection ~108.4

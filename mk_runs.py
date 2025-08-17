@@ -78,7 +78,7 @@ pars1["7963-3702"]  = "speczoom=104,3 xlines=104.2,0.5 qagrade=3"
 pars1["7968-12703"] = "speczoom=104,3 xlines=104.5,0.5 qagrade=3"
 pars1["8132-6101"]  = "speczoom=104,3"      # no line
 pars1["8243-12701"] = "speczoom=108,3 xlines=110.4,0.5"
-pars1["8482-12703"] = "speczoom=108,3 xlines=109.8,0.5"
+pars1["8482-12703"] = "speczoom=108,3 xlines=109.8,0.5 qagrade=3"
 pars1["8606-12701"] = "speczoom=108,3 xlines=108.4,0.5"
 pars1["8619-12702"] = "speczoom=108,3 xlines=108.4,0.5 qagrade=3"
 pars1["8725-9102" ] = "speczoom=108,3 xlines=109.9,0.4"    
