@@ -7,10 +7,11 @@
 #individual
 119406		removed bad cb 2/3	#badcb=2/3
 119409		removed bad cb 0/5	#badcb=0/5
-119413          removed bad cb 2/3      #badcb=2/3
+119413          removed bad cb 1/1 and 2/3     #badcb=1/1,2/3
 119414          removed bad cb 2/3      #badcb=2/3
 119416          removed bad cb 2/3      #badcb=2/3
-122170          removed bad cb 0/5      #badcb=0/5
+119417          removed bad cb 2/3      #badcb=2/3
+122170          removed bad cb 0/5 and 3/3     #badcb=0/5,3/3
 123932          removed bad cb 3/0      #badcb=3/0
 123950          removed bad cb 3/0      #badcb=3/0
 123940          removed bad cb 1/2      #badcb=1/2
@@ -30,12 +31,68 @@
 124551          removed bad cb 1/2 and 3/0      #badcb=1/2,3/0
 
 
+#9024-12705
+136372		removed bad cb 3/0	#badcb=3/0
+136375		[REOBSERVE] bad board 0	#qagrade=-2
+136383		removed bad cb 3/0,3/4	#badcb=3/0,3/4
+136384		removed bad cb 3/0	#badcb=3/0
+136385		removed bad cb 3/4	#badcb=3/4
+136388		removed bad cb 3/0	#badcb=3/0
+
+#9025-6104
+136410		removed bad cb 3/0	#badcb=3/0
+136417		removed bad cb 1/0	#badcb=1/0
+136505		removed bad cb 3/0	#badcb=3/0
+136506		removed bad cb 3/0      #badcb=3/0
+136507		removed bad cb 3/0      #badcb=3/0
+136508 		removed bad cb 3/0	#badcb=3/0
+136512		removed bad cb 3/0	#badcb=3/0
+135616		removed bad cb 3/0 	#badcb=3/0
+
+#7963-3702
+136422		removed bad cb 3/0	#badcb=3/0
+136423		removed bad cb 3/0	#badcb=3/0
+136519		removed bad cb 0/0,1/2	#badcb=0/0,1/2
+136521		removed bad cb 0/0	#badcb=0/0
+136523		removed bad cb 3/0	#badcb=3/0
+136524		removed bad cb 3/0	#badcb=3/0
+136528		removed bad cb 1/2	#badcb=1/2
+136529		removed bad cb 3/0	#badcb=3/0
+
+#8619-12702
+136542		removed bad cb 3/0	#badcb=3/0
+136543		removed bad cb 3/0	#badcb=3/0
+136935		removed bad cb 1/2	#badcb=1/2
+136939		removed bad cb 3/0	#badcb=3/0
+136941		removed bad cb 2/3	#badcb=2/3
+138222		removed bad cb 3/0	#badcb=3/0
+138450		removed bad cb 3/0,3/3	#badcb=3/0,3/3
+138451		[REOBSERVE] bad chassis 3	#qagrade=-2
+138454		removed bad cb 1/0,1/2	#badcb=1/0,1/2
+138455		removed bad cb 1/0,3/0,3/3	#badcb=1/0,3/0,3/3
+
+#9196-12703 
+138213		removed bad cb 2/3	#badcb=2/3
+138214		[REOBSERVE] choppy spectra and higher Tsys	#qagrade=-2
+138217		removed bad cb 3/0	#badcb=3/0
+138426		removed bad cb 3/4	#badcb=3/4
+138427		removed bad cb 3/0	#badcb=3/0
+138436		removed bad cb 3/0	#badcb=3/0
+138438		removed bad cb 3/0	#badcb=3/0 
+
+#7968-12703
+119188		removed bad cb 3/0	#badcb=3/0
+119189		removed bad cb 1/0	#badcb=1/0
+119439		removed bad cb 3/0	#badcb=3/0
+119440		removed bad cb 3/0	#badcb=3/0
+
+
 
 #combos
-119404_119418 	 nice detection ~108.4
-119188_123896    nice detection ~104.5
-121778_122167 	 no obvious detection
-121791_126684	 nice detection ~110.2
-123927_124195	 nice detection ~110.9
-124202_124557    nice detection ~109.9
-124916_127184/   nice detection ~105.8
+#119404_119418 	 nice detection ~108.4
+#119188_123896    nice detection ~104.5
+#121778_122167 	 no obvious detection
+#121791_126684	 nice detection ~110.2
+#123927_124195	 nice detection ~110.9
+#124202_124557    nice detection ~109.9
+#124916_127184/   nice detection ~105.8
