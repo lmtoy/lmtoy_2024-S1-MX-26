@@ -78,6 +78,26 @@
 119439		removed bad cb 3/0	#badcb=3/0
 119440		removed bad cb 3/0	#badcb=3/0
 
+#8938-12702
+123928		removed bad cb 3/0	#badcb=3/0
+123932		removed bad cb 3/0	#badcb=3/0
+123937		removed bad cb 3/3	#badcb=3/3
+123939		removed bad cb 3/0	#badcb=3/0
+123950		removed bad cb 3/0	#badcb=3/0
+123951		removed bad cb 3/3 	#badcb=3/3
+124191		removed bad cb 3/0	#badcb=3/0
+124193		removed bad cb 3/3	#badcb=3/3
+124194		removed bad cb 3/0	#badcb=3/0
+
+#8725-9102
+124544		removed bad cb 2/4,3/0  #badcb=2/4,3/0	
+124547		removed bad cb 3/0,3/3	#badcb=3/0,3/3
+124548		removed bad cb 3/0,3/3	#badcb=3/0,3/3
+124551		removed bad cb 3/0	#badcb=3/0	
+124552		removed bad cb 2/4,3/0	#badcb=2/4,3/0
+125455		removed bad cb 3/0	#badcb=3/0,3/3
+124557		removed bad cb 3/0	#badcb=3/0
+
 #8482-12703
 129302_131804	#speczoom=109.5,3, xlines=109.9,0.5, qagrade=0
 129304		removed bad cb 2/3,3/0	#badcb=2/3,3/0
@@ -91,6 +111,25 @@
 131802		remove bad cb 2/3,3/5	#badcb=2/3,3/5
 131803		remove bad cb 2/1,3/0,3/5	#badcb=2/1,3/0,3/5
 131804		remove bad cb 2/1,3/5	#badcb=2/3,3/5
+
+#8243-12701
+122171		rsr driver issue after removing bad cb 2/4	#badcb=2/4 qagrade=-2 
+124907		[REOBSERVE] bad board 0	#badcb=2/4 qagrade=-2
+124908		removed bad cb 2/4	#badcb=2/4
+124909		[QAFAIL] bad chassis 2,3	#badcb=2/4 qagrade=-2
+124911		[QAFAIL] bad chassis 2,3	#qagrade=-2
+124912		rsr diver issue after removing bad cb 2/4	#badcb=2/4 qagrade=-2
+124913		rsr driver issue after removing bad cb 2/4	#badcb=2/4 qagrade=-2
+126670		removed bad cb 2/0,3/3	#badcb=2/0,3/3
+126671		removed bad cb 2/4	#badcb=2/5
+126672		removed bad cb 2/0	#badcb=2/0
+126676		removed bad cb 2/0	#badcb=2/0
+126678		removed bad cb 2/0,2/4	#badcb=2/0,2/4
+126680		[REOBSERVE] bad chassis 2	#qagrade=-2
+126682		[REOBSERVE] bad chassis 2	#qagrade=-2
+126683		removed badcb 2/0	#badcb=2/0
+126684		removed badcb 2/0	#badcb=2/0:,2/4
+
 
 #9500-1901
 124916		[REOBSERVE] bad board 1	#qagrade=-2
@@ -107,12 +146,30 @@
 131774		[REOBSERVE] bad board 1	#qagrade=-2
 131779		removed bad cb 3/0	#badcb=3/0
 
+#9032-12701	
+128931		removed bad cb 3/0	#badcb=3/0
+128939		removed bad cb 2/4	#badcb=2/4
+128940		rsr drover issue after removing bad cb 2/4	#badcb=2/4 qagrade=-2	
+128941		removed bad cb 3/0,3/4	#badcb=3/0,3/4
+128944		rsr driver issue after removing bad cb 2/4,3/0	#badcb=2/4,3/0 qagrade=-2
+128945		removed bad cb 2/4,3/0	#badcb=2/4,3/0
+128946		rsr driver issue after removing bad cb 2/4,3/0	#badcb=2/4,3/0 qagrade=-2
+129119		removed bad cb 3/0	#badcb=3/0
+129124		removed bad cb 2/4	#badcb=2/4
+129125		removed bad cb 2/4	#badcb=2/4
 
 #combos
-#119404_119418 	 nice detection ~108.4
-#119188_123896    nice detection ~104.5
-#121778_122167 	 no obvious detection
-#121791_126684	 nice detection ~110.2
-#123927_124195	 nice detection ~110.9
-#124202_124557    nice detection ~109.9
-#124916_127184/   nice detection ~105.8
+123927_124195	detection ~110.5 [24/24]  #qagrade=0
+138212_138442	detection ~106.5 [18/18]  #qagrade=0
+136408_136516   detection ~109.5 [19/19]  #qagrade=0
+129302_131804	detection ~109.5 [18/18]  #qagrade=0
+121778_122384 	weak detection ~102 [18/20]  #qagrade=0
+136542_138455	detection ~108 [18/18]	  #qagrade=0
+136422_136538	detection ~104 [18/18]	  #qagrade=0
+121791_126684	detection ~110 [17/24]	  #qagrade=0
+136366_136389   detection ~108.5 [17/18]  #qagrade=0
+119404_128844	detection ~108 [18/18]	  #qagrade=0
+124202_124557   detection ~110 [18/18]	  #qagrade=0
+128931_129125   no obvious detection [16/18]  #qagrade=0
+119188_132059   detection ~104.5 [15/15]  #qagrade=0
+124917_131779   no obvious detection [14/19]  #qagrade=0
