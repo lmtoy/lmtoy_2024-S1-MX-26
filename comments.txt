@@ -157,6 +157,15 @@
 129119		removed bad cb 3/0	#badcb=3/0
 129124		removed bad cb 2/4	#badcb=2/4
 129125		removed bad cb 2/4	#badcb=2/4
+143798		[QAFAIL] bad chassis 1 and high rms #qagrade=-2		
+
+#12511-3702
+143802		removed bad cb 3/0	#badcb=3/0
+143803		[QAFAIL] bad chassis 1 and bad board 0	#qagrade=-2
+143806		[REOBSERVE] bad board 0	#qagrade=-2
+143813		removed bad cb 3/0	#badcb=3/0
+143819		removed bad cb 3/0	#badcb=3/0
+143920		removed bad cb 0/5	#badcb=0/5
 
 #combos
 123927_124195	detection ~110.5 [24/24]  #qagrade=0
